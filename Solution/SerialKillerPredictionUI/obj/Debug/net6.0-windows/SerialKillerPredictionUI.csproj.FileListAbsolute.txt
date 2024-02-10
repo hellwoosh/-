@@ -1,0 +1,50 @@
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.exe
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.deps.json
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.runtimeconfig.json
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.dll
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.pdb
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.csproj.AssemblyReference.cache
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI_MarkupCompile.cache
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI_MarkupCompile.lref
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.g.resources
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.AssemblyInfoInputs.cache
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.AssemblyInfo.cs
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.csproj.CoreCompileInputs.cache
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.dll
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\refint\SerialKillerPredictionUI.dll
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.pdb
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.genruntimeconfig.cache
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\ref\SerialKillerPredictionUI.dll
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\Keras.dll
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\Numpy.Bare.dll
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\Python.Runtime.dll
+C:\Users\umpep\OneDrive\Рабочий стол\Шабашка\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.csproj.CopyComplete
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.exe
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.deps.json
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.runtimeconfig.json
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.dll
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\SerialKillerPredictionUI.pdb
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\Keras.dll
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\Numpy.Bare.dll
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\bin\Debug\net6.0-windows\Python.Runtime.dll
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI_MarkupCompile.cache
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI_MarkupCompile.lref
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.g.resources
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.csproj.CopyComplete
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.dll
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\refint\SerialKillerPredictionUI.dll
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.pdb
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\SerialKillerPredictionUI.genruntimeconfig.cache
+C:\Users\Vladimir\Desktop\Учеба\проект\Solution\SerialKillerPredictionUI\obj\Debug\net6.0-windows\ref\SerialKillerPredictionUI.dll
